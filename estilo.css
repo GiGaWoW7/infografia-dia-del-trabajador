@@ -1,0 +1,16 @@
+
+body {
+    background-image: linear-gradient(to bottom right, #9ea6ad, #d4dd9d, #a8a758, rgb(14, 8, 6));
+  }
+  body{
+    margin: 50px;
+  }
+  html {
+    height: 600%;
+  }
+  h1{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
